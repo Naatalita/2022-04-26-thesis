@@ -1,5 +1,4 @@
-#Mein erstes Git Repositorium
-## Meine Bash Scripte
+# Mein erstes Git Repositorium
 
 - Autorin: **Natalia Kiseleva**
 - Date: 2022-04-26
